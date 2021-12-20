@@ -3,3 +3,5 @@ git_test text
 
 git init
 git remote add origin repository address
+git add .
+
