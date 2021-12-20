@@ -3,5 +3,10 @@ git_test text
 
 git init
 git remote add origin repository address
-git add .
 
+git add .
+git status
+git commit -m "message"
+git push origin master
+git pull origin master
+# second text
